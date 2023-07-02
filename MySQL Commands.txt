@@ -1,0 +1,38 @@
+MYSQL QUERIES USED IN THIS PROJECT:
+
+              1.  create database account;
+              2.  use account;
+              3.  create table income(salary varchar(20),wage integer);
+              4.  insert into income  values(‘interest’,3000);
+              5.  insert into income  values(‘match price’,5000);
+              6.  insert into income  values(‘other price’,550);
+              7.  insert into income  values(‘rent income’,50000);
+              8 . insert into income  values(‘salary’,90000);
+              9 . insert into income  values(‘TOTAL’,185530);
+		 10.  create table expense (source  varchar(30),amount integer);
+		 11.  insert into expense  values(‘Insurance Premium’,500);
+		 12.  insert into expense  values(’Electricity’,1000);
+		 13.  insert into expense  values(‘Gas’,765);		
+		 14.  insert into expense values(‘Water’,235);
+		 15.  insert into expense  values(‘Phone Recharge’,1200);
+		 16.  insert into expense  values(‘DTH Recharge’,500);
+		 17.  insert into expense  values(‘Internet’,750);
+		 18.  insert into expense  values(‘Software and Games’,3000);
+             19.  insert into expense  values(‘Maintenance and Repairs’,2500);
+		 20.  insert into expense  values(‘Car fuel’,2000);
+             21.  insert into expense  values(‘Car insurance’,110);
+             22.  insert into expense  values(‘Public transportation ’,250);
+             23.  insert into expense  values(‘Grossery’,10000);
+             24.  insert into expense  values(‘Dining out’,2000);
+             25.  insert into expense  values(‘Clothing’,3000);
+             26.  insert into expense  values(‘Salon’,200);
+             27.  insert into expense  values(‘Movie’,2000);
+             28.  insert into expense  values(‘Gas’,765);
+             29.  insert into expense  values(‘Sports’,2000);
+             30.  insert into expense  values(‘Gym’,750);
+             31.  insert into expense  values(‘Doctor’,1000);
+             32.  insert into expense  values(‘Medicines’,1300);
+             33.  insert into expense  values(‘Holiday Tour’,50000);
+             34.  insert into expense  values(‘Total expense’,86760);
+
+
