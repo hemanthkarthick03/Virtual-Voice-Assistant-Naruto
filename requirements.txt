@@ -1,0 +1,17 @@
+mysql-connector-python
+SpeechRecognition
+pyttsx3
+wikipedia
+requests
+spotipy
+webbrowser
+platform
+random
+pygetwindow
+PyDictionary
+screen-brightness-control
+opencv-python
+mediapipe
+beautifulsoup4
+wolframalpha
+numpy
